@@ -2,6 +2,10 @@
 
 ![Header](./github-header-image.png)
 
+![Jeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbanimineni&show_icons=true&theme=shades-of-purple)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=packershift&repo=docker-actions-builder&theme=prussian)](https://github.com/packershift/docker-actions-builder)
+
 <!--
 **jbanimineni/jbanimineni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
