@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="github-header-image.png">
+![Header](./github-header-image.png)
 
 <!--
 **jbanimineni/jbanimineni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
