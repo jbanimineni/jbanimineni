@@ -19,6 +19,8 @@ This is the place where I opensource stuff and break things 🤣
 <a href="https://discord.gg/jbanimineni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jbanimineni" height="30" width="40" /></a>
 </p>
 
+![GitHub metrics](https://metrics.lecoq.io/jbanimineni) 
+
 ![Jeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbanimineni&show_icons=true&theme=shades-of-purple)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=packershift&repo=docker-actions-builder&theme=prussian)](https://github.com/packershift/docker-actions-builder)
