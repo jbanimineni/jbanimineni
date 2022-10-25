@@ -6,7 +6,7 @@ This is the place where I opensource stuff and break things 🤣
 
 - 🔭 I’m currently working on something cool 😉
 - 👯 I’m looking to collaborate on [PackerShift](https://github.com/packershift)
-- 👨‍💻 All of my projects are available at [https://github.com/packershift.io](https://github.com/packershift)
+- 👨‍💻 All of my projects are available at [https://github.com/packershift](https://github.com/packershift)
 - 💬 Ask me about anything related to DevOps/DevSecOPs/Cloud Services
 - 📫 How to reach me - jbanimineni@packershift.io
 - ⚡ Fun fact - I ❤️ Taking a break from intensive thinking allows the brain to process information
