@@ -19,23 +19,10 @@ This is the place where I opensource stuff and break things 🤣
 <a href="https://discord.gg/jbanimineni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jbanimineni" height="30" width="40" /></a>
 </p>
 
-![GitHub metrics](https://metrics.lecoq.io/jbanimineni) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jbanimineni)
 
-![Jeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbanimineni&show_icons=true&theme=shades-of-purple)
+![GitHub Metrics](https://metrics.lecoq.io/jbanimineni?template=classic&base.indepth=true&base.hireable=true&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&config.timezone=Asia%2FCalcutta) 
+
+![GitHub Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jbanimineni&show_icons=true&theme=shades-of-purple)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=packershift&repo=docker-actions-builder&theme=prussian)](https://github.com/packershift/docker-actions-builder)
-
-<!--
-**jbanimineni/jbanimineni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
