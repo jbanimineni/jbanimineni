@@ -1,4 +1,6 @@
-## Hey there 👋, I'm Jayababu Animineni ![Profile views](https://gpvc.arturio.dev/jbanimineni)
+![Profile views](https://gpvc.arturio.dev/jbanimineni)
+
+## Hey there 👋, I'm Jayababu Animineni
 
 ![Header](./header_1.png)
 
