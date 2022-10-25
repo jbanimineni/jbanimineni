@@ -4,7 +4,7 @@
 
 ![Header](./header_1.png)
 
-This is the place where I opensource stuff and break things 🤣
+I'm a DevOps engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Kubernetes, Docker, CI/CD(Jenkins, SonarQube, Maven, GitLab, JFrog, Snyk, Argo etc..) AWS and Azure.
 
 - 🔭 I’m currently working on something cool 😉
 - 👯 I’m looking to collaborate on [PackerShift](https://github.com/packershift)
