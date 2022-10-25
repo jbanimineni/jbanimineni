@@ -1,6 +1,6 @@
-## Hey 👋,
+## Hey there 👋,
 
-![Header](./github-header-image.png)
+![Header](./header_1.png)
 
 ![Jeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbanimineni&show_icons=true&theme=shades-of-purple)
 
