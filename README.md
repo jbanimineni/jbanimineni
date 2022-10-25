@@ -19,6 +19,8 @@ This is the place where I opensource stuff and break things 🤣
 <a href="https://discord.gg/jbanimineni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jbanimineni" height="30" width="40" /></a>
 </p>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jbanimineni&show_icons=true&theme=synthwave) 
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jbanimineni)
 
 ![GitHub Metrics](https://metrics.lecoq.io/jbanimineni?template=classic&base.indepth=true&base.hireable=true&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&config.timezone=Asia%2FCalcutta) 
