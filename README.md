@@ -21,7 +21,11 @@ I'm a DevOps engineer who is passionate about making contributing to open-source
 <a href="https://discord.gg/jbanimineni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jbanimineni" height="30" width="40" /></a>
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jbanimineni&show_icons=true&theme=synthwave) 
+:trophy: &nbsp;**Github Trophies**
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=jbanimineni)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbanimineni&show_icons=true&theme=synthwave) 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jbanimineni)
 
