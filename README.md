@@ -30,3 +30,5 @@ I'm a DevOps engineer who is passionate about making contributing to open-source
 ![GitHub Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jbanimineni&show_icons=true&theme=shades-of-purple)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=packershift&repo=docker-actions-builder&theme=prussian)](https://github.com/packershift/docker-actions-builder)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=packershift&repo=packershift&theme=prussian)](https://github.com/packershift/packershift)
