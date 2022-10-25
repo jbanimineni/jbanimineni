@@ -1,6 +1,8 @@
-## Hey there 👋,
+## Hey there 👋, I'm Jayababu Animineni
 
 ![Header](./header_1.png)
+
+This is the place where I opensource stuff and break things 🤣
 
 ![Jeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbanimineni&show_icons=true&theme=shades-of-purple)
 
