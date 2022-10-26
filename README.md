@@ -21,7 +21,7 @@ I'm a DevOps Engineer who is passionate about making contributing to open-source
 <a href="https://discord.gg/jbanimineni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jbanimineni" height="30" width="40" /></a>
 </p>
 
-:trophy: &nbsp;**Github Trophies**
+:trophy: &nbsp;**Profile Trophies**
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=jbanimineni)](https://github.com/ryo-ma/github-profile-trophy)
 
