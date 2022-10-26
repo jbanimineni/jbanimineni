@@ -22,10 +22,10 @@ I'm a DevOps Engineer who is passionate about making contributing to open-source
 
 </details>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jbanimineni)
-
 **<details><summary>Github Profile Metrics</summary>**
 
 ![GitHub Metrics](https://metrics.lecoq.io/jbanimineni?template=classic&base.indepth=true&base.hireable=true&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&config.timezone=Asia%2FCalcutta)
 
 </details>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jbanimineni)
