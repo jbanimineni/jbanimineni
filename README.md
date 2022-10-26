@@ -1,4 +1,6 @@
-![Profile views](https://gpvc.arturio.dev/jbanimineni)
+![Profile views](https://gpvc.arturio.dev/jbanimineni) [![Gmail Badge](https://img.shields.io/badge/-jbanimineni@packershift.io-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jbanimineni@packershift.io "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Jayababu%20Animineni-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jbanimineni/ "Connect on LinkedIn")
+[![Twitter Badge](https://img.shields.io/badge/-@jbanimineni-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=jbanimineni "Follow on Twitter")
 
 ## Hey there 👋, I'm Jayababu Animineni
 
@@ -12,14 +14,6 @@ I'm a DevOps Engineer who is passionate about making contributing to open-source
 - 💬 Ask me about anything related to DevOps/DevSecOPs/Cloud Services
 - 📫 How to reach me - jbanimineni@packershift.io
 - ⚡ Fun fact - I ❤️ Taking a break from intensive thinking allows the brain to process information
-
-🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="https://twitter.com/jbanimineni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jbanimineni" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jbanimineni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jbanimineni" height="30" width="40" /></a>
-<a href="https://instagram.com/jbanimineni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jbanimineni" height="30" width="40" /></a>
-<a href="https://discord.gg/jbanimineni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jbanimineni" height="30" width="40" /></a>
-</p>
 
 :trophy: &nbsp;**Profile Trophies**
 
