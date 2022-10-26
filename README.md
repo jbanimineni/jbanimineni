@@ -25,13 +25,10 @@ I'm a DevOps Engineer who is passionate about making contributing to open-source
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=jbanimineni)](https://github.com/ryo-ma/github-profile-trophy)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbanimineni&show_icons=true&theme=synthwave) 
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jbanimineni)
 
-![GitHub Metrics](https://metrics.lecoq.io/jbanimineni?template=classic&base.indepth=true&base.hireable=true&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&config.timezone=Asia%2FCalcutta) 
+![GitHub Metrics](https://metrics.lecoq.io/jbanimineni?template=classic&base.indepth=true&base.hireable=true&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&config.timezone=Asia%2FCalcutta)
 
-<a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jbanimineni&show_icons=true&theme=synthwave" />
-</a>
-<a href="#">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jbanimineni&show_icons=true&theme=shades-of-purple" />
-</a>
+![GitHub Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jbanimineni&show_icons=true&theme=shades-of-purple)
