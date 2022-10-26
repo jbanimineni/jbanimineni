@@ -15,14 +15,16 @@ I'm a DevOps Engineer who is passionate about making contributing to open-source
 - 📫 How to reach me - jbanimineni@packershift.io
 - ⚡ Fun fact - I ❤️ Taking a break from intensive thinking allows the brain to process information
 
-**<details><summary>Github Streaks & Stats</summary>**
+<details>
+  <summary><b>:part_alternation_mark: &nbsp;&nbsp;Profile Streaks & Stats</b></summary>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbanimineni&show_icons=true&theme=synthwave)
 ![GitHub Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jbanimineni&show_icons=true&theme=shades-of-purple)
 
 </details>
 
-**<details><summary>Github Profile Metrics</summary>**
+<details>
+  <summary><b>:chart_with_upwards_trend: &nbsp;&nbsp;Profile Metrics</b></summary>
 
 ![GitHub Metrics](https://metrics.lecoq.io/jbanimineni?template=classic&base.indepth=true&base.hireable=true&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&config.timezone=Asia%2FCalcutta)
 
