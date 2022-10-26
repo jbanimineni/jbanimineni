@@ -15,10 +15,6 @@ I'm a DevOps Engineer who is passionate about making contributing to open-source
 - 📫 How to reach me - jbanimineni@packershift.io
 - ⚡ Fun fact - I ❤️ Taking a break from intensive thinking allows the brain to process information
 
-:trophy: &nbsp;**Profile Trophies**
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=jbanimineni)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbanimineni&show_icons=true&theme=synthwave) 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jbanimineni)
