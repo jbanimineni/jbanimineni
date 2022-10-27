@@ -14,6 +14,17 @@ I'm a DevOps Engineer who is passionate about making contributing to open-source
 - 📫 How to reach me - jbanimineni@packershift.io
 - ⚡ Fun fact - I ❤️ Taking a break from intensive thinking allows the brain to process information
 
+## :loudspeaker: Services Offered
+
+I'm stacked-up expertise in a range of cloud automation and container orchestration technologies to support organizations at any stage of their cloud transformation journey.
+
+ :white_check_mark: Cloud Native Transformation - Cloud-native technologies are used to develop applications built with services packaged in containers <br>
+ :white_check_mark: DevOps Consulting & Support <br>
+ :white_check_mark: Kubernetes Consulting & Support - Build, Run, and Manage Apps in the Cloud with Kubernetes <br>
+ :white_check_mark: CI/CD Pipeline Implementation in Kubernetes <br>
+ :white_check_mark: Terraform Professional Support - Manage Hundreds of Cloud Services with Terraform <br>
+ :white_check_mark: Infrastructure as Code Enablement -IaC automates app provisioning to efficiently manage hundreds of cloud services <br>
+ 
 <details>
   <summary><b>:part_alternation_mark: &nbsp;&nbsp;Profile Streaks & Stats</b></summary>
 
