@@ -7,12 +7,12 @@
 
 I'm a DevOps Engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Kubernetes, Docker, CI/CD(Jenkins, SonarQube, Maven, GitLab, JFrog, Snyk, Argo etc..) AWS and Azure.
 
-- 🔭 I’m currently working on something cool 😉
-- 👯 I’m looking to collaborate on [PackerShift](https://github.com/packershift)
-- 👨‍💻 All of my projects are available at [https://github.com/packershift](https://github.com/packershift)
-- 💬 Ask me about anything related to DevOps/DevSecOPs/Cloud Services
-- 📫 How to reach me - jbanimineni@packershift.io
-- ⚡ Fun fact - I ❤️ Taking a break from intensive thinking allows the brain to process information
+:point_right: 🔭 I’m currently working on something cool 😉 <br>
+:point_right: 👯 I’m looking to collaborate on [PackerShift](https://github.com/packershift) <br>
+:point_right: 👨‍💻 All of my projects are available at [https://github.com/packershift](https://github.com/packershift) <br>
+:point_right: 💬 Ask me about anything related to DevOps/DevSecOPs/Cloud Services <br>
+:point_right: 📫 How to reach me - jbanimineni@packershift.io <br> 
+:point_right: ⚡ Fun fact - I ❤️ Taking a break from intensive thinking allows the brain to process information <br>
 
 ## :loudspeaker: Services Offered
 
