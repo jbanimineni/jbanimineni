@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Jayababu%20Animineni-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jbanimineni/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@jbanimineni-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=jbanimineni "Follow on Twitter")
 
-## Hey there 👋, I'm Jayababu Animineni
+## Hey there 👋, I'm Jeh
 
 ![Header](./header_1.png)
 
