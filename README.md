@@ -1,5 +1,4 @@
 ![Profile views](https://gpvc.arturio.dev/jbanimineni) [![Gmail Badge](https://img.shields.io/badge/-jbanimineni@packershift.io-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jbanimineni@packershift.io "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Jayababu%20Animineni-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jbanimineni/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@jbanimineni-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=jbanimineni "Follow on Twitter")
 
 ## Hey there 👋, I'm Jeh
