@@ -1,5 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/jbanimineni) [![Gmail Badge](https://img.shields.io/badge/-jbanimineni@packershift.io-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jbanimineni@packershift.io "Connect via Email")
 [![Twitter Badge](https://img.shields.io/badge/-@jbanimineni-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=jbanimineni "Follow on Twitter")
+[![Join our Discord](https://img.shields.io/badge/Discord-PackerShift-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/SQTCyMUrms)
 
 ## Hey there 👋, I'm Jeh
 
