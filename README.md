@@ -1,6 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/jbanimineni) [![Gmail Badge](https://img.shields.io/badge/-jbanimineni@packershift.io-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jbanimineni@packershift.io "Connect via Email")
 [![Twitter Badge](https://img.shields.io/badge/-@jbanimineni-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=jbanimineni "Follow on Twitter")
-[![Join our Discord](https://img.shields.io/badge/Discord-PackerShift-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/SQTCyMUrms)
+[![Join our Discord](https://img.shields.io/badge/Discord-PackerShift-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/guK7UMyKMD)
 
 ## Hey there 👋, I'm Jeh
 
@@ -30,7 +30,7 @@ I'm stacked-up expertise in a range of cloud automation and container orchestrat
   <summary><b>:part_alternation_mark: &nbsp;&nbsp;Profile Streaks & Stats</b></summary>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbanimineni&show_icons=true&theme=synthwave)
-![GitHub Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jbanimineni&show_icons=true&theme=shades-of-purple)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jbanimineni&theme=sea&hide_border=true)](https://git.io/streak-stats)
 
 </details>
 
@@ -41,4 +41,4 @@ I'm stacked-up expertise in a range of cloud automation and container orchestrat
 
 </details>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jbanimineni)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jbanimineni)
