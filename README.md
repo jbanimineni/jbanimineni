@@ -1,21 +1,26 @@
-![Profile views](https://gpvc.arturio.dev/jbanimineni) [![Gmail Badge](https://img.shields.io/badge/-jbanimineni@packershift.io-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jbanimineni@packershift.io "Connect via Email")
-[![Twitter Badge](https://img.shields.io/badge/-@jbanimineni-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=jbanimineni "Follow on Twitter")
-[![Join our Discord](https://img.shields.io/badge/Discord-PackerShift-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/guK7UMyKMD)
+![Profile views](https://komarev.com/ghpvc/?username=jbanimineni) 
+[![Gmail Badge](https://img.shields.io/badge/-jbanimineni@brigadeworks.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jbanimineni@brigadeworks.com "Connect via Email")
+[![Join our Discord](https://img.shields.io/badge/Discord-jbanimineni-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/jbanimineni)
 
-## Hey there 👋, I'm Jeh
+# Hey there, I'm Jeh 👋
 
 ![Header](./header_1.png)
 
-I'm a DevOps Engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Kubernetes, Docker, CI/CD(Jenkins, SonarQube, Maven, GitLab, JFrog, Snyk, Argo etc..) AWS and Azure.
+## About Me 🧑‍💻
+I'm a passionate DevOps Engineer with 10+ years of experience in automating and optimizing mission-critical deployments in private and public cloud environments. I have a strong background in software development & architecture, system administration, and continuous integration/continuous deployment (CI/CD) processes.
 
-:point_right: 🔭 I’m currently working on something cool 😉 <br>
-:point_right: 👯 I’m looking to collaborate on [PackerShift](https://github.com/packershift) <br>
-:point_right: 👨‍💻 All of my projects are available at [https://github.com/packershift](https://github.com/packershift) <br>
-:point_right: 💬 Ask me about anything related to DevOps/DevSecOPs/Cloud Services <br>
-:point_right: 📫 How to reach me - jbanimineni@packershift.io <br> 
-:point_right: ⚡ Fun fact - I ❤️ Taking a break from intensive thinking allows the brain to process information <br>
+## Skills 🛠️
+- **Languages**: Python, Bash, Java, TypeScript
+- **CI/CD Tools**: Jenkins, GitLab CI, CircleCI, Travis CI
+- **Cloud Platforms**: AWS, Azure, Google Cloud Platform, OpenStack, VMWare
+- **Containerization**: Docker, Kubernetes
+- **Infrastructure as Code**: Terraform, Ansible, CloudFormation
+- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack, Victoria Metrics
+- **Version Control**: Git, GitHub, GitLab
 
-## :loudspeaker: Services Offered
+Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
+
+## Services Offered 📣
 
 I'm stacked-up expertise in a range of cloud automation and container orchestration technologies to support organizations at any stage of their cloud transformation journey.
 
