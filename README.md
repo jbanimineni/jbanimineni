@@ -46,4 +46,4 @@ I'm stacked-up expertise in a range of cloud automation and container orchestrat
 
 </details>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jbanimineni)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jbanimineni)
