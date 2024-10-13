@@ -1,6 +1,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=jbanimineni) 
 [![Gmail Badge](https://img.shields.io/badge/-jbanimineni@brigadeworks.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jbanimineni@brigadeworks.com "Connect via Email")
-[![Join our Discord](https://img.shields.io/badge/Discord-jbanimineni-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/jbanimineni)
+[![Join our Discord](https://img.shields.io/badge/Discord-jbanimineni-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/WG9xtJnUHK)
 
 # Hey there, I'm Jeh 👋
 
